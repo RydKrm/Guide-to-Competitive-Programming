@@ -37,7 +37,7 @@ this is paragraph code
 
 <!-- Images  -->
 
-![A cute cat image](https://hips.hearstapps.com/hmg-prod/images/cute-cat-photos-1593441022.jpg)
+![A cute cat image.](https://hips.hearstapps.com/hmg-prod/images/cute-cat-photos-1593441022.jpg)
 
 <!-- Italic text  -->
 
