@@ -12,10 +12,11 @@ graph TD;
     C-->D;
 ```
 
-👍
-
+> [!IMPORTANT]
+> Essential information required for user success
+>
+> 👍
 > [!NOTE]
 > Information the user should notice even if skimming
-
 > [!TIP]
 > Optional information to help a user be more successful
