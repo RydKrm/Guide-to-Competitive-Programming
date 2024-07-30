@@ -27,10 +27,17 @@ can evenly distribute them among the 3 people
 
 Try the equation :-
 `a - floor(a/m)*m`
-`=> -1 - floor(-1/3)*3 `
+`=> -1 - floor(-1/3)*3 ` IN modular this is will be 1
 `=> -1 - (-1)*3 `
 `=> -1 +3`
 `=> 2`
 
+#### Modulo Addition, Subtraction, Multiplication
+
+`(a+b) mod m = ((a mod m)+(b mod m)) mod m` <br>
+`(a-b) mod m = ((a mod m)-(b mod m)) mod m` <br>
+`(a*b) mod m = ((a mod m)*(b mod m)) mod m`
 
 
+#### Modulo Division 
+Modulo works with only integer number.
