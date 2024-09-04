@@ -77,7 +77,7 @@ void reverseList(Node *& head){
 }
 
 int main(){
-    cout<<"Linked List"<<endl;
+    cout << "Linked List" << endl;
     Node *head = nullptr;
     insert(head, 1);
     insert(head, 2);
